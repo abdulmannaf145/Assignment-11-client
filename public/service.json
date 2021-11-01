@@ -1,0 +1,75 @@
+[
+    {
+        "id":1,
+        "placeName": "Los Angeles",
+        "price": "$199",
+        "tours":2,
+        "paragraph": "Los Angeles is a sprawling Southern California city and the center of the nation’s film and television industry. Near its iconic Hollywood sign, studios such as Paramount Pictures,",
+        "img":"https://html-travelata.wpzoro.com/assets/img/los-angeles.jpg",
+        "showDetails":"Los Angeles is a sprawling Southern California city and the center of the nation’s film and television industry. Near its iconic Hollywood sign, studios such as Paramount Pictures, Universal and Warner Brothers offer behind-the-scenes tours. On Hollywood Boulevard, TCL Chinese Theatre displays celebrities’ hand- and footprints, the Walk of Fame honors thousands of luminaries and vendors sell maps to stars’ homes",
+        "days":"3",
+        "ageRequire":"16",
+        "loaciton":"American"
+
+    },
+    {
+        "id":2,
+        "placeName": "Paris",
+        "price": "$599",
+        "tours":6,
+        "paragraph": "Paris, France's capital, is a major European city and a global center for art, fashion, gastronomy and culture. Its 19th-century cityscape is crisscrossed by wide boulevards",
+        "img":"https://html-travelata.wpzoro.com/assets/img/paris.jpg",
+        "showDetails":"Paris, France's capital, is a major European city and a global center for art, fashion, gastronomy and culture. Its 19th-century cityscape is crisscrossed by wide boulevards and the River Seine. Beyond such landmarks as the Eiffel Tower and the 12th-century, Gothic Notre-Dame cathedral, the city is known for its cafe culture and designer boutiques along the Rue du Faubourg Saint-Honoré",
+        "days":"6",
+        "ageRequire":"17",
+        "loaciton":"Eygpt"
+    },
+    {
+        "id":3,
+        "placeName": "New York",
+        "price": "$399",
+        "tours":3,
+        "paragraph": "New York City comprises 5 boroughs sitting where the Hudson River meets the Atlantic Ocean. At its core is Manhattan, a densely populated borough that’s among",
+        "img":"https://html-travelata.wpzoro.com/assets/img/new-york.jpg",
+        "showDetails":"New York City comprises 5 boroughs sitting where the Hudson River meets the Atlantic Ocean. At its core is Manhattan, a densely populated borough that’s among the world’s major commercial, financial and cultural centers. Its iconic sites include skyscrapers such as the Empire State Building and sprawling Central Park. Broadway theater is staged in neon-lit Times Square",
+        "days":"10",
+        "ageRequire":"18",
+        "loaciton":"Eygpt"
+    },
+    {
+        "id":4,
+        "placeName": "Amsterdam",
+        "price": "$299",
+        "tours":5,
+        "paragraph": "Amsterdam is the Netherlands’ capital, known for its artistic heritage, elaborate canal system and narrow houses with gabled facades, legacies of the city’s",
+        "img":"https://html-travelata.wpzoro.com/assets/img/amsterdam.jpg",
+        "showDetails":"Amsterdam is the Netherlands’ capital, known for its artistic heritage, elaborate canal system and narrow houses with gabled facades, legacies of the city’s 17th-century Golden Age. Its Museum District houses the Van Gogh Museum, works by Rembrandt and Vermeer at the Rijksmuseum, and modern art at the Stedelijk. Cycling is key to the city’s character, and there are numerous bike path",
+        "days":"2",
+        "ageRequire":"15",
+        "loaciton":"Sothaan"
+    },
+    {
+        "id":5,
+        "placeName": "Berlin",
+        "price": "$199",
+        "tours":6,
+        "paragraph": "Berlin, Germany’s capital, dates to the 13th century. Reminders of the city's turbulent 20th-century history include its Holocaust memorial and the Berlin",
+        "img":"https://html-travelata.wpzoro.com/assets/img/berlin.jpg",
+        "showDetails":"Berlin, Germany’s capital, dates to the 13th century. Reminders of the city's turbulent 20th-century history include its Holocaust memorial and the Berlin Wall's graffitied remains. Divided during the Cold War, its 18th-century Brandenburg Gate has become a symbol of reunification. The city's also known for its art scene and modern landmarks like the gold-colored, swoop-roofed Berliner Philharmonie, built in 1963.",
+        "days":"6",
+        "ageRequire":"17",
+        "loaciton":"Indai"
+    },
+    {
+        "id":6,
+        "placeName": "London",
+        "price": "$599",
+        "tours":8,
+        "paragraph": "London, the capital of England and the United Kingdom, is a 21st-century city with history stretching back to Roman times. At its centre stand the imposing ",
+        "img":"https://html-travelata.wpzoro.com/assets/img/london.jpg",
+        "showDetails":"London, the capital of England and the United Kingdom, is a 21st-century city with history stretching back to Roman times. At its centre stand the imposing Houses of Parliament, the iconic ‘Big Ben’ clock tower and Westminster Abbey, site of British monarch coronations. Across the Thames River, the London Eye observation wheel provides panoramic views of the South Bank cultural complex, and the entire city",
+        "days":"8",
+        "ageRequire":"14",
+        "loaciton":"South-Arabic"
+    }
+]

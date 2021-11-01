@@ -1,0 +1,22 @@
+.backgrounImgSet {
+    background-image: url(../../images/About.jpg);
+    padding: 150px 0;
+    color: white;
+}
+
+.cardHover {
+    color: white;
+}
+
+.cardHover:hover {
+    background-color: white !important;
+    color: black;
+}
+
+p i {
+    font-size: large;
+}
+
+p i:hover {
+    color: rgb(109, 109, 221);
+}
