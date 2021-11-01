@@ -13,7 +13,7 @@ const DashBord = () => {
       console.log(id)
     const proceed = window.confirm("Are you sure, you want to delete?", id);
     if (proceed) {
-      const url =  `https://safe-ocean-01500.herokuapp.com/${id}`;
+      const url =  `https://safe-ocean-01500.herokuapp.com/users/${id}`;
       console.log(url);
       fetch(url, {
         method: "DELETE",
@@ -34,7 +34,7 @@ const DashBord = () => {
         <div className="container">
           <h1 className="text-center m-4">Dashboard</h1>
           <h4>Users Details : </h4>
-          <div className="row mb-5 mt-5">
+          <div className="row row-cols-1 row-cols-md-3 g-4 mb-5 mt-5">
             {users.map((user) => (
               <Users key={users._id} handleDeleteUser={handleDeleteUser} user={user}></Users>
             ))}

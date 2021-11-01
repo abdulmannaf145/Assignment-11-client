@@ -84,10 +84,9 @@ const ServiceDetails = () => {
           </div>
           <div className="col-lg-5 col-md-5 col-12 my-5">
             <div className="shadow p-5 m-3 borderRadius-4">
-              <h1>Book This Tour</h1>
               <form
                 onSubmit={handleSubmit(onSubmit)}
-                className="my-2 p-4 rounded shadow"
+                className="my-2 p-4 rounded text-start"
               >
                 <div className="mb-3">
                   <h2 className="text-center">Book Now</h2>
@@ -157,11 +156,9 @@ const ServiceDetails = () => {
                   />
                 </div>
                 <div className="row mb-3 text-danger"></div>
-                {/* <Link to="/booking"> */}
                   <button type="submit" className="btn btn-primary">
                   Submit
                 </button>
-                {/* </Link> */}
               </form>
             </div>
           </div>

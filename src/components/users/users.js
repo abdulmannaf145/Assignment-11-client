@@ -7,31 +7,31 @@ const Users = (props ) => {
 
     const handleDelete = (id) =>{
         props.handleDeleteUser(id);
+        console.log(id);
     }
     return (
-      <div className="col-lg-3 col-md-6 col-sm-12 text-center">
-        <div className="show mb-4">
-          <p>
-            <span className="user-output">Name: </span> {name}
-          </p>
-          <p>
-            <span className="user-output">Email: </span>
-            {email}
-          </p>
-          <img className="img-thumbnail mb-2" src={photo} alt="" />
-          <Link to={`/users/update/${_id}`}>
-            <button className="up-user-btn ml-1 mb-2">Update</button>
-          </Link>
-          <button
+        //  row-cols-lg-3 row-cols-md-2 row-cols-1
+        <div class="col">
+        <div class="card h-100">
+        <img src={photo} class="card-img-top" alt="..."/>
+        <div class="card-body">
+            <h5 class="card-title">{name}</h5>
+            <p class="card-text">{email}</p>
+        </div>
+        <div class="card-footer">
+            <Link to={`/users/update/${_id}`}>
+                <button className="btn mybtn">Update</button>
+             </Link>
+            <button
                     onClick={() => handleDelete(_id)}
                     type="button"
                     className="btn mybtn"
             >
                     Delete
             </button>
-          
         </div>
-      </div>
+        </div>
+        </div>
     );
 };
 

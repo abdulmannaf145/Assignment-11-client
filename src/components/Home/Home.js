@@ -19,10 +19,7 @@ const Home = () => {
               }}
             >
               <h1 className="logoHeading">
-                <span className="text-danger">o</span>
-                <span className="text-warning">n</span>
-                <span className="text-info">s</span>
-                <span className="text-success">Tour</span>
+                CRUISE
               </h1>
               <h2 className="text-light">
                 With <span className="text-danger">US</span> on the way of
@@ -45,10 +42,7 @@ const Home = () => {
               }}
             >
               <h1 className="logoHeading">
-                <span className="text-danger">o</span>
-                <span className="text-warning">n</span>
-                <span className="text-info">s</span>
-                <span className="text-success">Tour</span>
+               CRUISE
               </h1>
               <h2 className="text-light">
                 With <span className="text-danger">US</span> on the way of
@@ -71,10 +65,7 @@ const Home = () => {
               }}
             >
               <h1 className="logoHeading">ons
-                <span className="text-danger">o</span>
-                <span className="text-warning">n</span>
-                <span className="text-info">s</span>
-                <span className="text-success">Tour</span>
+                CRUISE
               </h1>
               <h2 className="text-light">
                 With <span className="text-danger">US</span> on the way of
@@ -97,10 +88,7 @@ const Home = () => {
               }}
             >
               <h1 className="logoHeading">
-                <span className="text-danger">o</span>
-                <span className="text-warning">n</span>
-                <span className="text-info">s</span>
-                <span className="text-success">Tour</span>
+                CRUISE
               </h1>
               <h2 className="text-light">
                 With <span className="text-danger">US</span> on the way of
