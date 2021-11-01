@@ -50,8 +50,7 @@ const UserUpdate = () => {
     <div className="m-5">
       <div className="container d-flex justify-content-center">
         <div className="updateuser p-5 ">
-          <h2>Update {user.name}</h2>
-          <p>{id}</p>
+          <h2>Update User:</h2>
           <form onSubmit={handleUpdateUser}>
             <input
               type="text"
