@@ -21,7 +21,7 @@ const Users = (props ) => {
         <div class="card-footer">
             <Link to={`/users/update/${_id}`}>
                 <button className="btn mybtn">Update</button>
-             </Link>
+            </Link>
             <button
                     onClick={() => handleDelete(_id)}
                     type="button"
